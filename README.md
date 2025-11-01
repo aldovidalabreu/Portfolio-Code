@@ -28,10 +28,9 @@ Welcome! This repository contains files behind my portfolio projects. You can fi
 
 ## Important
 
--This GitHub portfolio is focused on sharing files; the explanation of each project is available on my portfolio website.
--Each project has its own folder with all the necessary files.
-
--Some projects include a dashboard file.
+- **This GitHub portfolio is focused on sharing files; the explanation of each project is available on my portfolio website.
+- **Each project has its own folder with all the necessary files.
+- **Some projects include a dashboard file.
 
 
 -For detailed explanations and step-by-step instructions, visit my portfolio: [www.aldovidalportfolio.com](http://www.aldovidalportfolio.com)
