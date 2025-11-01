@@ -30,6 +30,7 @@ Welcome! This repository contains files behind my portfolio projects. You can fi
 
 -This GitHub portfolio is focused on sharing files; the explanation of each project is available on my portfolio website.
 -Each project has its own folder with all the necessary files.
+
 -Some projects include a dashboard file.
 
 
