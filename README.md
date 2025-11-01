@@ -1,6 +1,6 @@
-# Portfolio Code
+# Portfolio Files
 
-Welcome! This repository contains the code behind my portfolio projects. You can find my portfolio and project descriptions here: [www.aldovidalportfolio.com](http://www.aldovidalportfolio.com)
+Welcome! This repository contains files behind my portfolio projects. You can find my portfolio and project descriptions here: [www.aldovidalportfolio.com](http://www.aldovidalportfolio.com) 
 
 ## Projects
 
@@ -26,10 +26,12 @@ Welcome! This repository contains the code behind my portfolio projects. You can
 
 ---
 
-## How to Explore the Code
+## Important
 
--Each project has its own folder with all the necessary files.  
--Some projects include a `results` folder with visualizations.  
+-This GitHub portfolio is focused on sharing files; the explanation of each project is available on my portfolio website.
+-Each project has its own folder with all the necessary files.
+-Some projects include a dashboard file.
+
 
 -For detailed explanations and step-by-step instructions, visit my portfolio: [www.aldovidalportfolio.com](http://www.aldovidalportfolio.com)
 
